@@ -1,10 +1,15 @@
 {
   "name": "react-native-multi-tabs",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "very simple structure for tabs in react-native",
   "main": "src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react-native-cross-platform-icons": "^1.0.4",
+    "react-native-vector-icons": "^4.5.0"
   },
   "repository": {
     "type": "git",
