@@ -1,0 +1,25 @@
+{
+  "name": "react-native-multi-tabs",
+  "version": "1.0.0",
+  "description": "very simple structure for tabs in react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rubbishCoder@github.com/rubbishCoder/react-native-multi-tabs.git"
+  },
+  "keywords": [
+    "tabs",
+    "react-native",
+    "simple",
+    "easy"
+  ],
+  "author": "pragadeesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubbishCoder/react-native-multi-tabs/issues"
+  },
+  "homepage": "https://github.com/rubbishCoder/react-native-multi-tabs#readme"
+}
